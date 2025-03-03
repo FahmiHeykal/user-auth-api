@@ -9,11 +9,11 @@ API sederhana untuk user authentication menggunakan JWT dan bcrypt dengan bahasa
 - JWT
 
 ## Fitur
-✅ Register  
-✅ Login  
-✅ Logout  
-✅ Proteksi API dengan JWT  
-✅ Hashing Password dengan Bcrypt  
+- Register  
+- Login  
+- Logout  
+- Proteksi API dengan JWT  
+- Hashing Password dengan Bcrypt  
 
 ## Instalasi
 1. Clone project ini:
